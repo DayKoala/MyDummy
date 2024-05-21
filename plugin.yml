@@ -1,0 +1,8 @@
+name: MyDummy
+main: DayKoala\MyDummy
+api: 5.0.0
+version: 1.0.0
+author: DayKoala
+permissions:
+  mydummy.command.main:
+    default: op
